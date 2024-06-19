@@ -1,4 +1,4 @@
 # demo
 First Git Repository
 <br>
-Author - Rudray Dave
+Author - Rudray Dave (RD)
